@@ -34,3 +34,8 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+### Hollow Night Social Battery HUD
+
+This is a Social battery meter with a HUD based from Hollow Night i made this during a late night coding session (you can NEVER beat a late night coding (unless i is outdoors)) it
+is written in nextjs and no tailwind it has fully custom CSS - Leo :)
